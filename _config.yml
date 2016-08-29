@@ -13,4 +13,6 @@ color:
     - '#2667FF'
     - '#3B28CC'
 layout_spectrum: 0.9889983155298978
+author:
+  email: holger.milde@gmail.com
 name: ecopunk
