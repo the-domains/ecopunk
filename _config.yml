@@ -6,9 +6,9 @@ color:
   saturation: 0.3112517495173961
   rhythmicContrast: 0.00008071609772741795
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: ecopunk
