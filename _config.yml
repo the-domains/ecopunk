@@ -1,0 +1,14 @@
+layout_spectrum: 0.9889983155298978
+typography_spectrum: 0.464861910790205
+color:
+  brandStrength: 0.6800160214770585
+  lightness: 0.6709452522918582
+  saturation: 0.3112517495173961
+  rhythmicContrast: 0.00008071609772741795
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: ecopunk
