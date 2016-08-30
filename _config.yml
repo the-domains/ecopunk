@@ -1,17 +1,18 @@
 author:
   email: holger.milde@gmail.com
+name: ecopunk
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3112517495173961
   brandStrength: 0.6800160214770585
@@ -24,7 +25,6 @@ color:
     - '#3B28CC'
   lightness: 0.6709452522918582
 typography_spectrum: 0.4645543
-layout_spectrum: 0
 content_rating:
   adult: false
-name: ecopunk
+layout_spectrum: 0.2658432
