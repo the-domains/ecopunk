@@ -4,7 +4,7 @@
         <description><![CDATA[Digital kuratierender Romantiker]]></description>
         <link>https://thegrid.ai/ecopunk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 19:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 19:10:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ecopunk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA["Die wenigsten Unternehmen haben das Agile Manifest verstanden!" - JAXenter]]></title>
@@ -33,6 +33,13 @@
             <link>https://soundcloud.com/foxloveeeeee/fox-lost-in-forest</link>
             <guid isPermaLink="false">7eae8cad-e9d7-42f1-a848-ae8460342c0d</guid>
             <pubDate>Sun, 28 Aug 2016 18:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Impressum]]></title>
+            <description><![CDATA[<article><h1>Impressum</h1><p>Inhaltlich Verantwortlich: … ist ausschliesslich der Autor. http://thegrid.ai/ecopunk/ ist ein privates Weblog.</p></article>]]></description>
+            <link>https://thegrid.ai/ecopunk/impressum/index.html</link>
+            <guid isPermaLink="false">9a158c84-58e4-4ba5-944c-d7f7f27fa57c</guid>
+            <pubDate>Sun, 28 Aug 2016 19:10:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
