@@ -1,31 +1,6 @@
-typography_spectrum: 0.3562778071500361
-content_rating:
-  adult: false
-color:
-  saturation: 0.4920416825916618
-  brandStrength: 0.6837686735671014
-  lightness: 0.31960904179140925
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  rhythmicContrast: 0.4773869893979281
-layout_spectrum: 0.003858469193801284
 author:
   email: holger.milde@gmail.com
-  name: Holger Milde
-  url: 'https://about.me/ecopunk'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a8749cc-8196-4bce-b2b8-6190676356d0.png
-name: Holger Milde
-navigation:
-  - name: Impressum
-    url: 'http://thegrid.ai/ecopunk/impressum'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d79164-8e5b-44c6-b8d9-73b8cf02d554.png
+name: ecopunk
 collections:
   - index:
       path: /
@@ -38,5 +13,18 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Digital kuratierender Romantiker
-description: 'Liebe, lebe und laufe in Hamburg'
+color:
+  saturation: 0.4258862
+  brandStrength: 0.4409237
+  lightness: 1
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  rhythmicContrast: 0.6965628
+typography_spectrum: 0.1723953
+layout_spectrum: 0
+content_rating:
+  adult: false
