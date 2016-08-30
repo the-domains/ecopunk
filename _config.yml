@@ -19,7 +19,7 @@ author:
   url: 'https://about.me/ecopunk'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a8749cc-8196-4bce-b2b8-6190676356d0.png
-name: Ecopunk
+name: Holger Milde
 navigation:
   - name: Meine Flipboard Magazine
     url: 'https://flipboard.com/@ecopunk'
@@ -39,3 +39,4 @@ collections:
       format: rss
       number: 10
 title: Digital kuratierender Romantiker
+description: 'Liebe, lebe und laufe in Hamburg'
