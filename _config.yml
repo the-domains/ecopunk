@@ -1,10 +1,20 @@
-typography_spectrum: 0.464861910790205
-content_rating:
-  adult: false
+author:
+  email: holger.milde@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.6800160214770585
-  lightness: 0.6709452522918582
   saturation: 0.3112517495173961
+  brandStrength: 0.6800160214770585
   rhythmicContrast: 0.00008071609772741795
   brandColors:
     - '#ADD7F6'
@@ -12,7 +22,9 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-layout_spectrum: 0.9889983155298978
-author:
-  email: holger.milde@gmail.com
+  lightness: 0.6709452522918582
+typography_spectrum: 0.4645543
+layout_spectrum: 0
+content_rating:
+  adult: false
 name: ecopunk
