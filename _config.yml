@@ -1,5 +1,6 @@
-layout_spectrum: 0.003858469193801284
 typography_spectrum: 0.3562778071500361
+content_rating:
+  adult: false
 color:
   saturation: 0.4920416825916618
   brandStrength: 0.6837686735671014
@@ -11,14 +12,13 @@ color:
     - '#FFFFFF'
     - '#FF9800'
   rhythmicContrast: 0.4773869893979281
-content_rating:
-  adult: false
+layout_spectrum: 0.003858469193801284
 author:
   email: holger.milde@gmail.com
   name: Holger Milde
   url: 'https://about.me/ecopunk'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2837e1e-e812-4691-9a3f-e4f0293721b8.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0881cd4f-1b3d-4fb2-be79-ec31a5173d6c.jpg
 name: Ecopunk
 navigation:
   - name: Meine Flipboard Magazine
