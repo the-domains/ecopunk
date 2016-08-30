@@ -17,7 +17,7 @@ author:
   email: holger.milde@gmail.com
 name: ecopunk
 navigation:
-  - name: Meine Flipboards
+  - name: Meine Flipboard Magazine
     url: 'https://flipboard.com/@ecopunk'
     type: external
 collections:
