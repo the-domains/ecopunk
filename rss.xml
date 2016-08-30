@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Digital kuratierender Romantiker]]></title>
         <description><![CDATA[Digital kuratierender Romantiker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ecopunk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 18:19:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Aug 2016 18:28:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ecopunk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Einstieg ins Content Marketing: So starten Sie auch mit kleinen Mitteln durch | impulse]]></title>
+            <description><![CDATA[<article><h1>Einstieg ins Content Marketing: So starten Sie auch mit kleinen Mitteln durch | impulse</h1><p>Sie haben wenig Zeit und Leute - und wollen trotzdem mit Content Marketing starten? Mit den folgenden Tipps gelingt der Einstieg. Content Marketing gehört zu den Begriffen, von denen seit einiger Zeit alle reden. Viele Kleinunternehmer fragen sich: Wie kann auch ich mit Inhalten Kunden gewinnen?</p><img src="http://www.impulse.de/wp-content/uploads/2016/08/content-marketing-einstieg.jpg"></article>]]></description>
+            <link>http://www.impulse.de/management/marketing/einstieg-content-marketing/3203451.html</link>
+            <guid isPermaLink="false">94878ff4-a622-49c4-bc95-941a473c1409</guid>
+            <pubDate>Sun, 28 Aug 2016 18:28:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lost in forest by fox]]></title>
             <description><![CDATA[<article><h1>Lost in forest by fox</h1><p>Ein wunderbares Lounge-Set für den Sommer Sonntagabend </p></article>]]></description>
