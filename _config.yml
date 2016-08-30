@@ -15,7 +15,9 @@ color:
 layout_spectrum: 0.2658432
 author:
   email: holger.milde@gmail.com
-name: ecopunk
+  name: Holger Milde
+  url: 'https://about.me/ecopunk'
+name: Ecopunk
 navigation:
   - name: Meine Flipboard Magazine
     url: 'https://flipboard.com/@ecopunk'
@@ -32,3 +34,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: >-
+  Technologieverliebt. Digital kuratierender Romantiker. Liebe, lebe und laufe
+  in Hamburg. Mag elektronische Musik und den #fcsp
