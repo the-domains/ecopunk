@@ -1,18 +1,18 @@
-typography_spectrum: 0.1723953
+layout_spectrum: 0.003858469193801284
+typography_spectrum: 0.3562778071500361
+color:
+  saturation: 0.4920416825916618
+  brandStrength: 0.6837686735671014
+  lightness: 0.31960904179140925
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  rhythmicContrast: 0.4773869893979281
 content_rating:
   adult: false
-color:
-  saturation: 0.4258862
-  brandStrength: 0.1852846
-  lightness: 1
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  rhythmicContrast: 0.6965628
-layout_spectrum: 0.2658432
 author:
   email: holger.milde@gmail.com
   name: Holger Milde
