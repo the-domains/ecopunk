@@ -1,3 +1,18 @@
+typography_spectrum: 0.1723953
+content_rating:
+  adult: false
+color:
+  saturation: 0.4258862
+  brandStrength: 0.1852846
+  lightness: 1
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  rhythmicContrast: 0.6965628
+layout_spectrum: 0.2658432
 author:
   email: holger.milde@gmail.com
 name: ecopunk
@@ -13,18 +28,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.4258862
-  brandStrength: 0.1852846
-  lightness: 1
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  rhythmicContrast: 0.6965628
-typography_spectrum: 0.1723953
-layout_spectrum: 0.2658432
-content_rating:
-  adult: false
