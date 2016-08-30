@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-28T18:55:31.648Z'
+datePublished: '2016-08-28T18:56:35.141Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T18:55:19.795Z'
+dateModified: '2016-08-28T18:56:35.020Z'
 title: Impressum
 publisher: {}
 description: >-
-  Inhaltlich Verantwortlich:  … sind ausschliesslich der Autor.
-  http://thegrid.ai/ecopunk/ ist ein privates  Weblog. 
-starred: false
+  Inhaltlich Verantwortlich:… sind ausschliesslich der Autor.
+  http://thegrid.ai/ecopunk/ ist ein privates Weblog.
 sourcePath: _posts/2016-08-28-impressum.md
+starred: false
 _type: Blurb
 
 ---
