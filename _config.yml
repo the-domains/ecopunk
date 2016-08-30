@@ -16,6 +16,10 @@ layout_spectrum: 0.2658432
 author:
   email: holger.milde@gmail.com
 name: ecopunk
+navigation:
+  - name: Meine Flipboards
+    url: 'https://flipboard.com/@ecopunk'
+    type: external
 collections:
   - index:
       path: /
