@@ -33,6 +33,9 @@ navigation:
   - name: Pinterest
     url: 'https://de.pinterest.com/ecopunk/'
     type: external
+  - name: Pocket
+    url: 'https://getpocket.com/@ecopunk'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d79164-8e5b-44c6-b8d9-73b8cf02d554.png
 collections:
