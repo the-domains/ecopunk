@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T06:26:22.503Z'
+datePublished: '2016-08-29T06:26:53.754Z'
 sourcePath: >-
   _posts/2016-08-29-nobel-restaurant-in-4300-metern-hohe-die-coolste-kuche-suda.md
 inFeed: true
@@ -11,7 +11,7 @@ via:
   name: Spiegel.de
   url: >-
     http://www.spiegel.de/reise/staedte/claus-meyer-kulinarische-experimente-des-noma-gruenders-in-bolivien-a-1109086.html
-dateModified: '2016-08-29T06:26:02.827Z'
+dateModified: '2016-08-29T06:26:48.695Z'
 title: Nobel-Restaurant in 4300 Metern Höhe
 app_links: []
 publisher:
