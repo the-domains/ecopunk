@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T06:06:06.341Z'
+datePublished: '2016-08-29T06:09:18.375Z'
 sourcePath: >-
   _posts/2016-08-29-nobel-restaurant-in-4300-metern-hohe-die-coolste-kuche-suda.md
 inFeed: true
@@ -11,7 +11,7 @@ via:
   name: Spiegel.de
   url: >-
     http://www.spiegel.de/reise/staedte/claus-meyer-kulinarische-experimente-des-noma-gruenders-in-bolivien-a-1109086.html
-dateModified: '2016-08-29T06:06:05.690Z'
+dateModified: '2016-08-29T06:08:36.383Z'
 title: 'Nobel-Restaurant in 4300 Metern Höhe: Die coolste Küche Südamerikas'
 app_links: []
 publisher:
@@ -32,6 +32,6 @@ _type: MediaObject
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1309106ffdc2e8a3e7566b555962a94d661ec6da.jpg" /><h1>Grupo Gustu</h1><p>A socially focused commercial venture | Grupo Gustu | calle 10 N.300 casi Costanera, La Paz, Bolivia | Reservas - 591 (2) 2117491</p></article>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtUMtugzAQ_BWM1GNgd_1aopCqp34HYBuQoCBMSvr3NU0PM9I8NIe5jWFrZp_FravzYd_XeC3L4ziKfln6yRfdMpdzs8bSz61372tbC5yRT6JEUqBTVmJhGYjIgq0qI8hdDBfAbDRUrLQkUwnpLmgKrZRGicyaU0yCzokAghLkiTnNjgikBI3WsFABZYHJT70zi_CsUAdCCk3TuI4A3-QHPH1IbUuVMawMm1ZQ_HzE_SG0x9dqdD6ZidQ3KktKA1hEtnl2jG4f6twA5Nngx37Y_8XfN-2yOb_VedJx_5l8nb-cazKaaVqO8Jim2G3ef91v5evP-y_3r1_T" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlUMtugzAQ_JXYUo-B3fVriUKqnvodgO2ABAFhUtK_r2kOM9I8NIe5DnFtpnBKa1fLftuWdCnLfd-L-zzfx1B081ROzZLKMLXBfy5tLXBCPogyKYFeO4WFYyAiB66qrCB_tlwAszVQsTaKbCWUP6MtjNYGFTIbzjEJOiYiCMpQB6Y8OyCQFjQ4y0JHVAVmP_eOLMGrQhMJKTZN4zsC_FBf8Aoxtx1V1rK2bFtB6fuZtqcwAd-ryYdsZtI_qB1pA-AQ2cnTPvitryUDyFMfhnu_1dIe4v-bdl59WGuZddp-x1DLt3PJRjOO8x6f45i6NYTH7Vq-_7z9AfhHX9U" style=""></iframe>
 
 http://www.spiegel.de/reise/staedte/claus-meyer-kulinarische-experimente-des-noma-gruenders-in-bolivien-a-1109086.html
