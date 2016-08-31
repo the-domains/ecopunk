@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T06:26:53.754Z'
+datePublished: '2016-08-29T06:27:19.331Z'
 sourcePath: >-
   _posts/2016-08-29-nobel-restaurant-in-4300-metern-hohe-die-coolste-kuche-suda.md
 inFeed: true
@@ -11,7 +11,7 @@ via:
   name: Spiegel.de
   url: >-
     http://www.spiegel.de/reise/staedte/claus-meyer-kulinarische-experimente-des-noma-gruenders-in-bolivien-a-1109086.html
-dateModified: '2016-08-29T06:26:48.695Z'
+dateModified: '2016-08-29T06:26:54.348Z'
 title: Nobel-Restaurant in 4300 Metern Höhe
 app_links: []
 publisher:
@@ -21,7 +21,8 @@ publisher:
     http://www.gustubo.restaurantgustu.com/wp-content/uploads/2016/03/favicon.png
   domain: www.gustubo.restaurantgustu.com
 description: >-
-  http://www.spiegel.de/reise/staedte/claus-meyer-kulinarische-experimente-des-noma-gruenders-in-bolivien-a-1109086.html
+  A socially focused commercial venture | Grupo Gustu | calle 10 N.300 casi
+  Costanera, La Paz, Bolivia | Reservas - 591 (2) 2117491
 starred: true
 url: nobel-restaurant-in-4300-metern-hohe-die-coolste-kuche-suda/index.html
 _context: 'http://schema.org'
