@@ -1,12 +1,14 @@
 ---
-datePublished: '2016-08-29T06:54:18.778Z'
+datePublished: '2016-08-29T06:55:27.256Z'
 sourcePath: >-
   _posts/2016-08-28-latest-update-on-karl-meltzers-appalachian-trail-record-att.md
-inFeed: false
-hasPage: true
+inFeed: true
+isBasedOnUrl: >-
+  http://running.competitor.com/2016/08/news/update-karl-meltzers-appalachian-trail-record-attempt_154951
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-29T06:54:14.991Z'
+dateModified: '2016-08-29T06:55:20.488Z'
 title: Latest Update on Karl Meltzer's Appalachian Trail Record Attempt
 id: faec4415-b65c-48a3-bfa9-f463d2e4b947
 publisher:
@@ -21,7 +23,6 @@ description: >-
   last year for the 2,189-mile trail that stretches from Mount Katahdin, Maine,
   to Springer Mountain, Georgia.
 starred: true
-url: latest-update-on-karl-meltzers-appalachian-trail-record-att/index.html
 _type: MediaObject
 
 ---
