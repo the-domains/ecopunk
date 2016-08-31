@@ -33,11 +33,11 @@ app_links:
     id: '426826309'
 isBasedOnUrl: 'https://www.strava.com/activities/689866701'
 title: Mittagslauf - Holger Milde's 63.0 km run
-datePublished: '2016-08-29T07:09:55.370Z'
-dateModified: '2016-08-29T07:09:49.664Z'
+datePublished: '2016-08-29T09:04:51.922Z'
+dateModified: '2016-08-29T09:04:51.548Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-29-mittagslauf-holger-mildes-630-km-run.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
