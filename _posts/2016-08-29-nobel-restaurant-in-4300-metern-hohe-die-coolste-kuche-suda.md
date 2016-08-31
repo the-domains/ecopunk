@@ -1,15 +1,14 @@
 ---
-datePublished: '2016-08-29T06:33:29.864Z'
+datePublished: '2016-08-29T06:34:19.773Z'
 sourcePath: >-
   _posts/2016-08-29-nobel-restaurant-in-4300-metern-hohe-die-coolste-kuche-suda.md
 inFeed: true
-isBasedOnUrl: 'http://www.gustubo.restaurantgustu.com/?lang=en'
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-29T06:33:27.178Z'
+dateModified: '2016-08-29T06:34:14.781Z'
 title: Nobel-Restaurant in 4300 Metern Höhe
 app_links: []
 publisher:
@@ -20,6 +19,7 @@ publisher:
   domain: www.gustubo.restaurantgustu.com
 description: 'http://www.gustubo.restaurantgustu.com/?lang=en'
 starred: true
+url: nobel-restaurant-in-4300-metern-hohe/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
