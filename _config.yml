@@ -24,7 +24,7 @@ navigation:
   - name: Xing
     url: 'https://www.xing.com/profile/Holger_Milde'
     type: external
-  - name: Flipboard Magazine
+  - name: Flipboard
     url: 'https://flipboard.com/@ecopunk'
     type: external
   - name: Impressum
