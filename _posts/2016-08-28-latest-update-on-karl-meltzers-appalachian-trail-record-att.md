@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T06:56:17.203Z'
+datePublished: '2016-08-29T09:06:27.915Z'
 sourcePath: >-
   _posts/2016-08-28-latest-update-on-karl-meltzers-appalachian-trail-record-att.md
 inFeed: true
@@ -8,7 +8,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-29T06:56:13.518Z'
+dateModified: '2016-08-29T09:06:27.470Z'
 title: Latest Update on Karl Meltzer's Appalachian Trail Record Attempt
 id: faec4415-b65c-48a3-bfa9-f463d2e4b947
 publisher:
@@ -22,7 +22,7 @@ description: >-
   early August, hoping to best Jurek's mark of 46 days, 8 hours, 7 minutes set
   last year for the 2,189-mile trail that stretches from Mount Katahdin, Maine,
   to Springer Mountain, Georgia.
-starred: true
+starred: false
 _type: MediaObject
 
 ---
