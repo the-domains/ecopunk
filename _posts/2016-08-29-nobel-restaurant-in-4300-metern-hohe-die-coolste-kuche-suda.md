@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-29T06:00:54.955Z'
+datePublished: '2016-08-29T06:06:06.341Z'
 sourcePath: >-
   _posts/2016-08-29-nobel-restaurant-in-4300-metern-hohe-die-coolste-kuche-suda.md
 inFeed: true
-isBasedOnUrl: 'http://www.gustubo.restaurantgustu.com/?lang=en'
+hasPage: true
 keywords: []
 related: []
 author: []
@@ -11,7 +11,7 @@ via:
   name: Spiegel.de
   url: >-
     http://www.spiegel.de/reise/staedte/claus-meyer-kulinarische-experimente-des-noma-gruenders-in-bolivien-a-1109086.html
-dateModified: '2016-08-29T06:00:48.662Z'
+dateModified: '2016-08-29T06:06:05.690Z'
 title: 'Nobel-Restaurant in 4300 Metern Höhe: Die coolste Küche Südamerikas'
 app_links: []
 publisher:
@@ -23,6 +23,7 @@ publisher:
 description: >-
   http://www.spiegel.de/reise/staedte/claus-meyer-kulinarische-experimente-des-noma-gruenders-in-bolivien-a-1109086.html
 starred: false
+url: nobel-restaurant-in-4300-metern-hohe-die-coolste-kuche-suda/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
