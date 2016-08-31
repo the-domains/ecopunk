@@ -1,42 +1,51 @@
-navigation:
-  - name: Impressum
-    url: 'http://thegrid.ai/ecopunk/impressum'
-    type: external
-description: 'Liebe, lebe und laufe in Hamburg, höre elektronische Musik und mag den #fcsp'
-author:
-  email: holger.milde@gmail.com
-  name: Holger Milde
-  url: 'https://about.me/ecopunk'
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 0.003858469193801284
+typography_spectrum: 0.3562778071500361
+content_rating:
+  adult: false
 color:
   saturation: 0.4920416825916618
   brandStrength: 0.6837686735671014
-  rhythmicContrast: 0.4773869893979281
+  lightness: 0.31960904179140925
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  lightness: 0.3196090417914093
+  rhythmicContrast: 0.4773869893979281
+layout_spectrum: 0.003858469193801284
+author:
+  email: holger.milde@gmail.com
+  name: Holger Milde
+  url: 'https://about.me/ecopunk'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a8749cc-8196-4bce-b2b8-6190676356d0.png
-title: Digital kuratierender Romantiker
-content_rating:
-  adult: false
+name: Holger Milde
+navigation:
+  - name: Xing
+    url: 'https://www.xing.com/profile/Holger_Milde'
+    type: external
+  - name: Flipboard
+    url: 'https://flipboard.com/@ecopunk'
+    type: external
+  - name: Impressum
+    id: 9a158c84-58e4-4ba5-944c-d7f7f27fa57c
+    type: content
+  - name: Pinterest
+    url: 'https://de.pinterest.com/ecopunk/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d79164-8e5b-44c6-b8d9-73b8cf02d554.png
-typography_spectrum: 0.3562778071500361
-name: Holger Milde
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Digital kuratierender Romantiker
+description: 'Liebe, lebe und laufe in Hamburg, höre elektronische Musik und mag den #fcsp'
