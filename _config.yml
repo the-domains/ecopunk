@@ -21,9 +21,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a8749cc-8196-4bce-b2b8-6190676356d0.png
 name: Holger Milde
 navigation:
-  - name: Impressum
-    url: 'http://thegrid.ai/ecopunk/impressum'
-    type: external
   - name: Xing
     url: 'https://www.xing.com/profile/Holger_Milde'
     type: external
