@@ -1,5 +1,8 @@
 ---
-datePublished: '2016-08-29T05:56:53.922Z'
+datePublished: '2016-08-29T05:59:26.578Z'
+sourcePath: >-
+  _posts/2016-08-29-nobel-restaurant-in-4300-metern-hohe-die-coolste-kuche-suda.md
+inFeed: true
 isBasedOnUrl: 'http://www.gustubo.restaurantgustu.com/?lang=en'
 keywords: []
 related: []
@@ -8,7 +11,7 @@ via:
   name: Spiegel.de
   url: >-
     http://www.spiegel.de/reise/staedte/claus-meyer-kulinarische-experimente-des-noma-gruenders-in-bolivien-a-1109086.html
-dateModified: '2016-08-29T05:56:46.843Z'
+dateModified: '2016-08-29T05:59:25.883Z'
 title: 'Nobel-Restaurant in 4300 Metern Höhe: Die coolste Küche Südamerikas'
 app_links: []
 publisher:
@@ -21,11 +24,6 @@ description: >-
   A socially focused commercial venture | Grupo Gustu | calle 10 N.300 casi
   Costanera, La Paz, Bolivia | Reservas - 591 (2) 2117491
 starred: false
-sourcePath: >-
-  _posts/2016-08-29-nobel-restaurant-in-4300-metern-hohe-die-coolste-kuche-suda.md
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -34,4 +32,4 @@ _type: MediaObject
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1309106ffdc2e8a3e7566b555962a94d661ec6da.jpg" /><h1>Grupo Gustu</h1><p>A socially focused commercial venture | Grupo Gustu | calle 10 N.300 casi Costanera, La Paz, Bolivia | Reservas - 591 (2) 2117491</p></article>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlkM1ugzAQhF8FW-oxsLv-W6KQqqc-B2A7IEGIMCnp29c0hx1pvxnNYS5jXNs5FGntGzls2yOdq2rf9_K2LLcplP0yV3P7SFWYu-A_H10jcEY-hLIogV47haVjICIHrq6tIH-yXAKzNVCzNopsLZQ_oS2N1gYVMhvONgk6KiIIyqeOm3PtiEBa0OgsCx1RlZh5zh1egleNJhJSbNvW9wT4ob7gFWJOO6qtZW3ZdoLS9zNtT2ECvluTDxlm0T-oHWkD4BDZyWIf_TY00gLIYgjjbdgamW1Z_G_TLasPayPzn7bfKTTyTc4ZtNO07PE5TalfQ7hfL9V7z-sf-Gdf1g" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtUMtugzAQ_BWM1GNgd_1aopCqp34HYBuQoCBMSvr3NU0PM9I8NIe5jWFrZp_FravzYd_XeC3L4ziKfln6yRfdMpdzs8bSz61372tbC5yRT6JEUqBTVmJhGYjIgq0qI8hdDBfAbDRUrLQkUwnpLmgKrZRGicyaU0yCzokAghLkiTnNjgikBI3WsFABZYHJT70zi_CsUAdCCk3TuI4A3-QHPH1IbUuVMawMm1ZQ_HzE_SG0x9dqdD6ZidQ3KktKA1hEtnl2jG4f6twA5Nngx37Y_8XfN-2yOb_VedJx_5l8nb-cazKaaVqO8Jim2G3ef91v5evP-y_3r1_T" style=""></iframe>
