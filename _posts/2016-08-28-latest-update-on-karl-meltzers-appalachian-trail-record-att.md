@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T06:55:27.256Z'
+datePublished: '2016-08-29T06:56:17.203Z'
 sourcePath: >-
   _posts/2016-08-28-latest-update-on-karl-meltzers-appalachian-trail-record-att.md
 inFeed: true
@@ -8,7 +8,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-29T06:55:20.488Z'
+dateModified: '2016-08-29T06:56:13.518Z'
 title: Latest Update on Karl Meltzer's Appalachian Trail Record Attempt
 id: faec4415-b65c-48a3-bfa9-f463d2e4b947
 publisher:
