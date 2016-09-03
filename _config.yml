@@ -1,14 +1,57 @@
-layout_spectrum: 0.9889983155298978
-typography_spectrum: 0.464861910790205
+typography_spectrum: 0.3562778071500361
+content_rating:
+  adult: false
 color:
-  brandStrength: 0.6800160214770585
-  lightness: 0.6709452522918582
-  saturation: 0.3112517495173961
-  rhythmicContrast: 0.00008071609772741795
+  saturation: 0.4920416825916618
+  brandStrength: 0.6837686735671014
+  lightness: 0.31960904179140925
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-name: ecopunk
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  rhythmicContrast: 0.4773869893979281
+layout_spectrum: 0.003858469193801284
+author:
+  email: holger.milde@gmail.com
+  name: Holger Milde
+  url: 'https://about.me/ecopunk'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a711eff0-abb2-4d35-a206-4e90ea1cd13c.jpg
+name: Holger Milde
+navigation:
+  - name: Xing
+    url: 'https://www.xing.com/profile/Holger_Milde'
+    type: external
+  - name: Flipboard
+    url: 'https://flipboard.com/@ecopunk'
+    type: external
+  - name: Impressum
+    id: 9a158c84-58e4-4ba5-944c-d7f7f27fa57c
+    type: content
+  - name: Pinterest
+    url: 'https://de.pinterest.com/ecopunk/'
+    type: external
+  - name: Pocket
+    url: 'https://getpocket.com/@ecopunk'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d79164-8e5b-44c6-b8d9-73b8cf02d554.png
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: Digital kuratierender Romantiker
+description: >-
+  Vater einer wundervollen Tochter. Liebe, lebe und laufe in Hamburg
+  (53.5473000,9.9545000) und Westersode (53.7076000,9.1090000), höre
+  elektronische Musik und mag den #fcsp
