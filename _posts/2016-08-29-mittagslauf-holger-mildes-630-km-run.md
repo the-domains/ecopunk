@@ -1,8 +1,8 @@
 ---
 id: 6ab182dd-ac8b-4c1d-9ebd-44eb0da4d363
-dateModified: '2016-09-01T21:16:29.299Z'
+dateModified: '2016-09-01T21:24:52.923Z'
 title: Mittagslauf - Holger Milde's 63.0 km run
-datePublished: '2016-09-01T21:16:30.138Z'
+datePublished: '2016-09-01T21:24:53.497Z'
 author: []
 isBasedOnUrl: 'https://www.strava.com/activities/689866701'
 description: >-
@@ -14,8 +14,8 @@ publisher:
   favicon: 'https://d3nn82uaxijpm6.cloudfront.net/favicon-16x16.png?v=dLlWydWlG6'
   domain: www.strava.com
 via: {}
-starred: false
 sourcePath: _posts/2016-08-29-mittagslauf-holger-mildes-630-km-run.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
