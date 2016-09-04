@@ -4,7 +4,7 @@
         <description><![CDATA[Digital kuratierender Romantiker]]></description>
         <link>http://ecopunk.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 14:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 17:37:49 GMT</lastBuildDate>
         <atom:link href="http://ecopunk.de/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Latest Update on Karl Meltzer's Appalachian Trail Record Attempt]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.strava.com/activities/689866701</link>
             <guid isPermaLink="false">6ab182dd-ac8b-4c1d-9ebd-44eb0da4d363</guid>
             <pubDate>Mon, 29 Aug 2016 09:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seedlip Non-Alcoholic Spirits]]></title>
+            <description><![CDATA[<article><h1>Seedlip Non-Alcoholic Spirits</h1><img src="http://uncrate.com/p/2016/08/seedlip-spirits.jpg"></article>]]></description>
+            <link>http://uncrate.com/stuff/seedlip-non-alcoholic-spirits/</link>
+            <guid isPermaLink="false">d76a0992-0ed3-43e8-aa35-f901fefe4559</guid>
+            <pubDate>Thu, 01 Sep 2016 17:36:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Best Running Shoes of 2016 (so far)]]></title>
@@ -68,13 +75,6 @@
             <link>http://design-milk.com/terra-armchair-made-grass/</link>
             <guid isPermaLink="false">cfb2f7a0-ceab-4c9e-a49b-10057eb0f808</guid>
             <pubDate>Mon, 29 Aug 2016 08:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Selfie]]></title>
-            <description><![CDATA[<article><h1>Selfie</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e17c4c5-e6d5-4837-ba96-a07036301fbe.jpg"></article>]]></description>
-            <link>http://ecopunk.de/selfie/index.html</link>
-            <guid isPermaLink="false">166125e0-de5d-4f6f-9bae-35e592b73bec</guid>
-            <pubDate>Mon, 29 Aug 2016 07:15:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
