@@ -1,7 +1,7 @@
 ---
 title: Armen Miran - Live at Pattern Bar - (8.20.16) by Armen Miran
-datePublished: '2016-09-01T18:26:34.193Z'
-dateModified: '2016-09-01T18:26:19.456Z'
+datePublished: '2016-09-01T21:25:10.841Z'
+dateModified: '2016-09-01T21:25:10.370Z'
 author:
   - name: Armen Miran
     url: 'http://soundcloud.com/armenmiran'
@@ -12,8 +12,8 @@ description: >-
   https://www.facebook.com/ArmenMiranOfficial
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-09-01-armen-miran-live-at-pattern-bar-82016-by-armen-miran.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
