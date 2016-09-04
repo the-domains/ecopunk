@@ -4,7 +4,7 @@
         <description><![CDATA[Digital kuratierender Romantiker]]></description>
         <link>http://ecopunk.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 17:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 18:27:28 GMT</lastBuildDate>
         <atom:link href="http://ecopunk.de/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Latest Update on Karl Meltzer's Appalachian Trail Record Attempt]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 29 Aug 2016 09:04:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Armen Miran - Live at Pattern Bar - (8.20.16) by Armen Miran]]></title>
+            <description><![CDATA[<article><h1>Armen Miran - Live at Pattern Bar - (8.20.16) by Armen Miran</h1><p>An hour of my set from last night at Pattern Bar. Enjoy! https://www.facebook.com/ArmenMiranOfficial</p></article>]]></description>
+            <link>https://soundcloud.com/armenmiran/armen-miran-live-at-pattern-bar-82016</link>
+            <guid isPermaLink="false">54359f7b-947a-42ee-b7a5-a4d590c50fce</guid>
+            <pubDate>Thu, 01 Sep 2016 18:26:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Seedlip Non-Alcoholic Spirits]]></title>
-            <description><![CDATA[<article><h1>Seedlip Non-Alcoholic Spirits</h1><img src="http://uncrate.com/p/2016/08/seedlip-spirits.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Seedlip Non-Alcoholic Spirits</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6fa3c99c5444d9e7ac694aaf169998c7/noop.jpg?input=http%3A%2F%2Funcrate.com%2Fp%2F2016%2F08%2Fseedlip-spirits.jpg"></article>]]></description>
             <link>http://uncrate.com/stuff/seedlip-non-alcoholic-spirits/</link>
             <guid isPermaLink="false">d76a0992-0ed3-43e8-aa35-f901fefe4559</guid>
             <pubDate>Thu, 01 Sep 2016 17:36:35 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.mysgnl.com/</link>
             <guid isPermaLink="false">2b10e8b4-b510-4623-a5c2-f7e300b8f3ca</guid>
             <pubDate>Mon, 29 Aug 2016 08:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TERRA! The Armchair Made From Grass - Design Milk]]></title>
-            <description><![CDATA[<article><h1>TERRA! The Armchair Made From Grass - Design Milk</h1><p>Originally released at Salone Satellite in 2000, TERRA! went on to be sold worldwide until 2005 when it was determined that producing it themselves was no longer feasible. Until now... Studio Nucleo is back with a new version of their infamous design that lets you grow your very own grass armchair in your garden.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6a3b0aea24568d037d63d67de72dffa7/noop.jpg?input=http%3A%2F%2F1.design-milk.com%2Fimages%2F2016%2F08%2FTerra-Grass-Armchair-1.jpg"></article>]]></description>
-            <link>http://design-milk.com/terra-armchair-made-grass/</link>
-            <guid isPermaLink="false">cfb2f7a0-ceab-4c9e-a49b-10057eb0f808</guid>
-            <pubDate>Mon, 29 Aug 2016 08:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
