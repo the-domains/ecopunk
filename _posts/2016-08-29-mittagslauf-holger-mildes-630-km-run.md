@@ -1,47 +1,24 @@
 ---
+id: 6ab182dd-ac8b-4c1d-9ebd-44eb0da4d363
+dateModified: '2016-09-01T21:16:29.299Z'
+title: Mittagslauf - Holger Milde's 63.0 km run
+datePublished: '2016-09-01T21:16:30.138Z'
 author: []
-related: []
+isBasedOnUrl: 'https://www.strava.com/activities/689866701'
+description: >-
+  Track your rides and runs via your iPhone, Android or GPS device, analyze your
+  performance, and compare with friends.
 publisher:
   url: 'https://www.strava.com'
   name: Strava
   favicon: 'https://d3nn82uaxijpm6.cloudfront.net/favicon-16x16.png?v=dLlWydWlG6'
   domain: www.strava.com
-keywords: []
-description: >-
-  Track your rides and runs via your iPhone, Android or GPS device, analyze your
-  performance, and compare with friends.
-app_links:
-  - url: 'strava://activities/689866701'
-    type: ios
-    namespace: ai
-    app_name: Strava
-    app_store_id: '426826309'
-  - url: 'strava://activities/689866701'
-    type: android
-    namespace: ai
-    app_name: Strava
-    package: com.strava
-  - url: 'https://www.strava.com/activities/689866701'
-    namespace: twitter
-    type: googleplay
-    name: Strava
-    id: com.strava
-  - url: 'strava://activities/689866701'
-    namespace: twitter
-    type: iphone
-    name: Strava
-    id: '426826309'
-isBasedOnUrl: 'https://www.strava.com/activities/689866701'
-title: Mittagslauf - Holger Milde's 63.0 km run
-datePublished: '2016-08-29T09:04:51.922Z'
-dateModified: '2016-08-29T09:04:51.548Z'
 via: {}
+starred: false
 sourcePath: _posts/2016-08-29-mittagslauf-holger-mildes-630-km-run.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
-_context: 'http://schema.org'
 _type: MediaObject
 
 ---
