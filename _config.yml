@@ -1,24 +1,27 @@
-typography_spectrum: 0.3562778071500361
+typography_spectrum: 0.002936214201687143
 content_rating:
   adult: false
 color:
-  saturation: 0.4920416825916618
-  brandStrength: 0.6837686735671014
-  lightness: 0.31960904179140925
+  saturation: 0.6030494089800827
+  brandStrength: 0.2354715514588769
+  rhythmicContrast: 0.7423745677599887
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  rhythmicContrast: 0.4773869893979281
-layout_spectrum: 0.003858469193801284
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+  lightness: 0.1272084504875843
+github: true
+layout_spectrum: 0.5339412189404121
+analytics:
+  google: UA-83695144-1
 author:
   email: holger.milde@gmail.com
   name: Holger Milde
   url: 'https://about.me/ecopunk'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a711eff0-abb2-4d35-a206-4e90ea1cd13c.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a506a71b-fb10-4d30-aad4-df10dcfcbabb.png
 name: Holger Milde
 navigation:
   - name: Xing
@@ -27,15 +30,15 @@ navigation:
   - name: Flipboard
     url: 'https://flipboard.com/@ecopunk'
     type: external
-  - name: Impressum
-    id: 9a158c84-58e4-4ba5-944c-d7f7f27fa57c
-    type: content
   - name: Pinterest
     url: 'https://de.pinterest.com/ecopunk/'
     type: external
-  - name: Pocket
-    url: 'https://getpocket.com/@ecopunk'
+  - name: Strava
+    url: 'https://www.strava.com/athletes/ecopunk'
     type: external
+  - name: Impressum
+    id: 9a158c84-58e4-4ba5-944c-d7f7f27fa57c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d79164-8e5b-44c6-b8d9-73b8cf02d554.png
 collections:
@@ -51,7 +54,14 @@ collections:
       format: rss
       number: 10
 title: Digital kuratierender Romantiker
+content: []
 description: >-
-  Vater einer wundervollen Tochter. Liebe, lebe und laufe in Hamburg
-  (53.5473000,9.9545000) und Westersode (53.7076000,9.1090000), höre
-  elektronische Musik und mag den #fcsp
+  Technologieverliebt. Vater einer wundervollen Tochter. Liebe, lebe und laufe
+  in Hamburg und Westersode, höre elektronische Musik und mag den #fcsp
+purpose:
+  - type: contact
+    url: 'tel:+491711979003'
+    label: Call +491711979003
+  - type: contact
+    url: 'mailto:holger.milde@gmail.com'
+    label: Contact me
