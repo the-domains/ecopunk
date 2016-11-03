@@ -4,9 +4,9 @@
         <description><![CDATA[Digital kuratierender Romantiker]]></description>
         <link>http://ecopunk.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Nov 2016 15:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2016 15:18:05 GMT</lastBuildDate>
         <atom:link href="http://ecopunk.de/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Nov 2016 15:17:42 GMT</pubDate>
+        <pubDate>Thu, 03 Nov 2016 15:17:44 GMT</pubDate>
         <item>
             <title><![CDATA[2016 New York City Marathon Special Edition Shoes | Competitor.com]]></title>
             <description><![CDATA[<article><h1>2016 New York City Marathon Special Edition Shoes | Competitor.com</h1><p>"Start spreading the news, I'm leaving today ... I want to be a part of it, New York, New York ... These vagabond shoes, are longing to stray ... Right through the very heart of it, New York, New York ...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3d8b22be6705dadbeaa6f9aca3a8a354/noop.jpg?input=http%3A%2F%2Fcdn.running.competitor.com%2Ffiles%2F2016%2F10%2FNYC_Kinvara_Pair-930x522.jpg"></article>]]></description>
@@ -50,6 +50,13 @@
             <pubDate>Thu, 03 Nov 2016 15:17:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Laufen im Dunkeln: Die einfachste Anleitung für dich]]></title>
+            <description><![CDATA[<article><h1>Laufen im Dunkeln: Die einfachste Anleitung für dich</h1><p>Es ist kurz vor 18 Uhr - Zeit endlich Feierabend zu machen. Es war ein anstrengender Tag voller Meetings, Gespräche, Telefonate und konzentrierter Denkarbeit. Es wird Zeit, endlich mal etwas für den Körper zu tun. Mein Schrittzähler hat sich schon mehrfach beschwert, dass ich mich zu wenig bewege.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b74fe8d9e591d4f9edc51bc0f4b4e6e9/noop.jpg?input=http%3A%2F%2Fwww.ausdauerblog.de%2Fwp-content%2Fuploads%2F2016%2F10%2Flaufen-im-dunkeln-660x330.jpg"></article>]]></description>
+            <link>http://www.ausdauerblog.de/laufen-im-dunkeln/</link>
+            <guid isPermaLink="false">3c5a5897-13f9-4ac5-bda7-f503359cd092</guid>
+            <pubDate>Thu, 03 Nov 2016 15:17:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA["Pump the Pudel" Spenden für den Wiederaufbau des Golden Pudel Clubs]]></title>
             <description><![CDATA[<article><h1>"Pump the Pudel" Spenden für den Wiederaufbau des Golden Pudel Clubs</h1><p>Anfang des Jahres hat ein Feuer dem Hamburger Golden Pudel Club ziemlich schwer zugesetzt und den weiteren Betrieb unmöglich gemacht. Seit dem ist zum Glück eine Menge passiert. Neben Solidarität und sehr viel Engagement aus dem Clubumfeld konnte das Grundstück und das Haus mit Hilfe der Gelder der Mara & Holger Cassens Stiftung gekauft und in das Vermögen eines gemeinnützigen Vereins überführt werden.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8b77ab15b56fc9335ae5afd4275cbb6e/noop.jpg?input=http%3A%2F%2Furbanshit.de%2Fbilder_urbanshit%2F2016%2F10%2FIMG_2687.jpg"></article>]]></description>
             <link>http://urbanshit.de/pump-the-pudel-spenden-fuer-den-wiederaufbau-des-golden-pudel-clubs/</link>
@@ -69,13 +76,6 @@
             <link>http://www.wir-essen-gesund.de/vegane-rohkost-einfuehrung/</link>
             <guid isPermaLink="false">e0b49324-9be1-4cee-ac02-c850218ad29b</guid>
             <pubDate>Sun, 30 Oct 2016 13:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vue: Smarte Brille ist Headset, Fitness-Tracker und mehr]]></title>
-            <description><![CDATA[<article><h1>Vue: Smarte Brille ist Headset, Fitness-Tracker und mehr</h1><p>Es gibt mal wieder ein ganz neues Projekt auf Kickstarter, welches unsere Aufmerksamkeit erlagt hat. Heute dreht es sich um eine smarte Brille. Diese nennt sich Vue und wird auf Kickstarter in verschiedenen Versionen, unter anderem auch als Sonnenbrille, angeboten. Preislich gesehen bewegen wir uns hier bei knapp 200 Dollar, je nach Modell.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b154ee3663354ae710bbf8b7942ac4d3/noop.jpg?input=https%3A%2F%2Fi1.wp.com%2Fwww.mobiflip.de%2Fwp-content%2Fuploads%2F2016%2F10%2FVue-Smart-Glasses.jpg%3Ffit%3D1085%252C696%26ssl%3D1"></article>]]></description>
-            <link>https://www.mobiflip.de/vue-smarte-brille/</link>
-            <guid isPermaLink="false">2a4d5ee0-aaca-4851-bd87-94df5482652c</guid>
-            <pubDate>Sun, 30 Oct 2016 13:22:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
