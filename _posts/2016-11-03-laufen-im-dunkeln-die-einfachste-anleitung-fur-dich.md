@@ -17,8 +17,8 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://www.ausdauerblog.de/laufen-im-dunkeln/'
 title: 'Laufen im Dunkeln: Die einfachste Anleitung für dich'
-datePublished: '2016-11-03T15:17:35.979Z'
-dateModified: '2016-11-03T15:16:36.955Z'
+datePublished: '2016-11-03T15:17:30.162Z'
+dateModified: '2016-11-03T15:17:19.437Z'
 via: {}
 inFeed: true
 starred: false
