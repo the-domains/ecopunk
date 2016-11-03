@@ -4,9 +4,9 @@
         <description><![CDATA[Digital kuratierender Romantiker]]></description>
         <link>http://ecopunk.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Nov 2016 15:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2016 15:18:39 GMT</lastBuildDate>
         <atom:link href="http://ecopunk.de/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Nov 2016 15:17:45 GMT</pubDate>
+        <pubDate>Thu, 03 Nov 2016 15:17:46 GMT</pubDate>
         <item>
             <title><![CDATA[2016 New York City Marathon Special Edition Shoes | Competitor.com]]></title>
             <description><![CDATA[<article><h1>2016 New York City Marathon Special Edition Shoes | Competitor.com</h1><p>"Start spreading the news, I'm leaving today ... I want to be a part of it, New York, New York ... These vagabond shoes, are longing to stray ... Right through the very heart of it, New York, New York ...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3d8b22be6705dadbeaa6f9aca3a8a354/noop.jpg?input=http%3A%2F%2Fcdn.running.competitor.com%2Ffiles%2F2016%2F10%2FNYC_Kinvara_Pair-930x522.jpg"></article>]]></description>
@@ -43,6 +43,13 @@
             <pubDate>Wed, 26 Oct 2016 15:02:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tesla-Event: Musk stellt neue Solar-Dachziegel und Powerwall-Batterie 2.0 vor]]></title>
+            <description><![CDATA[<article><h1>Tesla-Event: Musk stellt neue Solar-Dachziegel und Powerwall-Batterie 2.0 vor</h1><p>Nach der Ankündigung von selbstfahrenden Autos, lud Tesla mit Solarcity am Freitag erneut zu einem Event. Diesmal ging es um neue Solar- und Energielösungen. In der Wisteria Lane, am Set von Desperate Housewives in den Universal Studios in Los Angeles, hielt Tesla am Freitag Abend gemeinsam mit Solarcity eine Produkt-Präsentation ab.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/249ae0f727dba519d93f059dbca22855/noop.png?input=http%3A%2F%2Fimg.t3n.sc%2Fnews%2Fwp-content%2Fuploads%2F2016%2F10%2FScreen-Shot-2016-10-28-at-9.36.12-PM.png%3Fauto%3Dcompress%252Cenhance%252Cformat%26fit%3Dcrop%26fm%3Djpg%26h%3D418%26ixlib%3Dphp-1.1.0%26q%3D65%26w%3D800%26s%3D9c92d54fd6098a4db65156b742c34c05"></article>]]></description>
+            <link>http://t3n.de/news/tesla-solar-dach-batterie-760873/</link>
+            <guid isPermaLink="false">674118a5-6156-4dbd-86db-8feb132dc8b4</guid>
+            <pubDate>Thu, 03 Nov 2016 15:17:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Diese eine Batterie versorgt euer ganzes Haus mit Strom - für immer]]></title>
             <description><![CDATA[<article><h1>Diese eine Batterie versorgt euer ganzes Haus mit Strom - für immer</h1><p>Manuel Mata, ein junger Erfinder aus Chile, hatte von Stromausfällen die Nase voll: Er hat eine Batterie entwickelt, die ihren eigenen Strom erzeugt und speichert und so ein ganzes Haus mit Energie versorgen kann - und das für immer. Das System arbeitet sauber mit Solarzellen und lädt sich selbst immer wieder auf.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/458d4212368a4871863a116f83bfc57d/noop.jpg?input=http%3A%2F%2Fstatic6.businessinsider.de%2Fimage%2F58136021e19f172d008b4779%2Fdiese-eine-batterie-versorgt-euer-ganzes-haus-mit-strom--fr-immer.jpg"></article>]]></description>
             <link>http://www.businessinsider.de/diese-eine-batterie-versorgt-euer-ganzes-haus-mit-strom-fuer-immer-2016-10</link>
@@ -69,13 +76,6 @@
             <link>http://urbanshit.de/pump-the-pudel-spenden-fuer-den-wiederaufbau-des-golden-pudel-clubs/</link>
             <guid isPermaLink="false">aae25a0b-9ed4-4e01-b411-5bf2b1a8623a</guid>
             <pubDate>Sun, 30 Oct 2016 13:31:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[cherubim hummingbird bicycle pays homage streamlined era]]></title>
-            <description><![CDATA[<article><h1>cherubim hummingbird bicycle pays homage streamlined era</h1><p>cherubim hummingbird bicycle pays homage to the streamlined era this exquisite bicycle was created by cherubim, the supplier to the japanese national cycling team at the 1968 olympic in mexico city. the company was founded in 1965 by hitoshi konno, and his son, shinichi konno, is now carrying forward its legacy of sculptural steel-frames.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fb00e2cc843c3442ae4319ba4c647d46/noop.jpg?input=http%3A%2F%2Fwww.designboom.com%2Fwp-content%2Fuploads%2F2016%2F10%2Fcherubim-hummingbird-designboom-newsletter.jpg"></article>]]></description>
-            <link>http://www.designboom.com/technology/cherubim-hummingbird-bicycle-streamlined-10-27-2016/</link>
-            <guid isPermaLink="false">7578ff85-c2b3-48a0-a850-2d13c8fee535</guid>
-            <pubDate>Sun, 30 Oct 2016 13:31:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
